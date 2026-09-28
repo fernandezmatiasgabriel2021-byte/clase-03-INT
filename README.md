@@ -10,4 +10,4 @@
   * Infografia:
 ---
 
-Adjunto link: [[[CUADERNO](https://notebook.google.com/notebook/c4270121-d6d7-4c14-99fe-71208e75dd24)](
+Adjunto link: [(https://notebook.google.com/notebook/c4270121-d6d7-4c14-99fe-71208e75dd24)]
